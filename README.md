@@ -97,6 +97,8 @@ client_secret =
 
 ## Deploying
 
+https://dashboard.heroku.com/new?template=https://github.com/saff222/gdrive
+
 - Start docker daemon (skip if already running):
 ```
 sudo dockerd
